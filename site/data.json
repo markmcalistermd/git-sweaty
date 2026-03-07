@@ -12410,6 +12410,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17636825825",
       "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 10,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17638833032",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24462,6 +24471,15 @@
           "distance": 3342.1,
           "elevation_gain": 97.0,
           "moving_time": 2520.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17638833032"
+          ],
+          "count": 1,
+          "distance": 2796.4,
+          "elevation_gain": 75.0,
+          "moving_time": 3237.0
         }
       },
       "Ride": {
@@ -24845,7 +24863,7 @@
       }
     }
   },
-  "generated_at": "2026-03-07T15:06:34.238115+00:00",
+  "generated_at": "2026-03-07T19:27:21.814087+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/31002690",
   "repo": "aspain/git-sweaty",
