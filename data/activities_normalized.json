@@ -40259,5 +40259,18 @@
     "start_date_local": "2026-03-15T10:23:04",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 8087.77978515625,
+    "elevation_gain": 21.11999999731779,
+    "id": "22186520870",
+    "moving_time": 2129.1809997558594,
+    "name": "Greenville Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-15T16:38:44",
+    "type": "Run",
+    "year": 2026
   }
 ]
