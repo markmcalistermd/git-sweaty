@@ -60,7 +60,7 @@ jobs:
           WORKFLOW_SOURCE: ${{ github.event_name == 'workflow_dispatch' && inputs.source || '' }}
           DASHBOARD_SOURCE: ${{ vars.DASHBOARD_SOURCE }}
         run: |
-          source="garmin"
+          source="${WORKFLOW_SOURCE:-${DASHBOARD_SOURCE:-strava}}"
           source="$(echo "${source}" | tr '[:upper:]' '[:lower:]' | xargs)"
           if [[ "${source}" != "strava" && "${source}" != "garmin" ]]; then
             echo "Unsupported source '${source}'. Expected strava or garmin."
