@@ -27917,6 +27917,42 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22387376662",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 14,
+      "name": "Kirkwood Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22409323411",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 18,
+      "name": "Kirkwood Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22421240511",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 16,
+      "name": "Greenville Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22470566806",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 17,
+      "name": "Greenville Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22481545859",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -54782,6 +54818,42 @@
           "distance": 8074.08984375,
           "elevation_gain": 20.029999999329448,
           "moving_time": 1971.8489990234375
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "22409323411"
+          ],
+          "count": 1,
+          "distance": 8072.490234375,
+          "elevation_gain": 38.589999973773956,
+          "moving_time": 2000.0580139160156
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "22421240511"
+          ],
+          "count": 1,
+          "distance": 8065.02001953125,
+          "elevation_gain": 49.10999999940395,
+          "moving_time": 2033.0359802246094
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "22470566806"
+          ],
+          "count": 1,
+          "distance": 8071.85009765625,
+          "elevation_gain": 20.389999985694885,
+          "moving_time": 2034.4560241699219
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "22481545859"
+          ],
+          "count": 1,
+          "distance": 8079.10986328125,
+          "elevation_gain": 27.639999985694885,
+          "moving_time": 2088.811004638672
         }
       },
       "Walk": {
@@ -54834,7 +54906,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/69735e21-3bfb-4f27-84c2-8f136cd9f0cc",
-  "generated_at": "2026-04-03T21:51:15.402470+00:00",
+  "generated_at": "2026-04-11T09:53:04.857061+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/69735e21-3bfb-4f27-84c2-8f136cd9f0cc",
   "repo": "markmcalistermd/git-sweaty",
