@@ -28025,6 +28025,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22584301104",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 16,
+      "name": "Greenville Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22588109796",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55045,12 +55054,21 @@
           "distance": 4838.9599609375,
           "elevation_gain": 16.899999976158142,
           "moving_time": 3322.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "22588109796"
+          ],
+          "count": 1,
+          "distance": 3555.550048828125,
+          "elevation_gain": 4.660000026226044,
+          "moving_time": 2400.0
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/69735e21-3bfb-4f27-84c2-8f136cd9f0cc",
-  "generated_at": "2026-04-19T21:46:16.345650+00:00",
+  "generated_at": "2026-04-19T22:47:14.425778+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/69735e21-3bfb-4f27-84c2-8f136cd9f0cc",
   "repo": "markmcalistermd/git-sweaty",
