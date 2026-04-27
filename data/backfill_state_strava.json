@@ -8,11 +8,11 @@
     ],
     "include_all_types": true
   },
-  "after": 0,
+  "after": 1483228800,
   "completed": true,
-  "last_run_utc": "2026-04-27T15:20:24.326544+00:00",
+  "last_run_utc": "2026-04-27T15:30:43.909489+00:00",
   "newest_seen_ts": 1777234204,
   "next_before": null,
-  "oldest_seen_ts": 1482692337,
+  "oldest_seen_ts": 1483305295,
   "rate_limited": false
 }
