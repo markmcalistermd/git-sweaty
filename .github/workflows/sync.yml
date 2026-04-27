@@ -12,7 +12,7 @@ on:
         options:
           - strava
           - garmin
-        default: garmin
+        default: strava
       update_readme_link:
         description: "Update README dashboard URL in this fork"
         required: false
