@@ -2066,13 +2066,6 @@
       "year": 2018
     },
     {
-      "date": "2018-01-15",
-      "hour": 12,
-      "subtype": "Kayaking",
-      "type": "Kayaking",
-      "year": 2018
-    },
-    {
       "date": "2018-01-16",
       "hour": 9,
       "subtype": "Hike",
@@ -2770,13 +2763,6 @@
       "hour": 17,
       "subtype": "Run",
       "type": "Run",
-      "year": 2018
-    },
-    {
-      "date": "2018-06-02",
-      "hour": 14,
-      "subtype": "Kitesurf",
-      "type": "Kitesurf",
       "year": 2018
     },
     {
@@ -10949,13 +10935,6 @@
       "year": 2021
     },
     {
-      "date": "2021-07-27",
-      "hour": 12,
-      "subtype": "WeightTraining",
-      "type": "WeightTraining",
-      "year": 2021
-    },
-    {
       "date": "2021-07-29",
       "hour": 8,
       "subtype": "Run",
@@ -12962,13 +12941,6 @@
       "hour": 10,
       "subtype": "Run",
       "type": "Run",
-      "year": 2022
-    },
-    {
-      "date": "2022-03-05",
-      "hour": 14,
-      "subtype": "RockClimbing",
-      "type": "RockClimbing",
       "year": 2022
     },
     {
@@ -24501,28 +24473,6 @@
           "distance": 9107.2,
           "elevation_gain": 481.7,
           "moving_time": 8610.0
-        }
-      },
-      "Kayaking": {
-        "2018-01-15": {
-          "activity_ids": [
-            "1358307753"
-          ],
-          "count": 1,
-          "distance": 11825.1,
-          "elevation_gain": 44.0,
-          "moving_time": 9432.0
-        }
-      },
-      "Kitesurf": {
-        "2018-06-02": {
-          "activity_ids": [
-            "1612183276"
-          ],
-          "count": 1,
-          "distance": 29305.6,
-          "elevation_gain": 0.0,
-          "moving_time": 11035.0
         }
       },
       "Ride": {
@@ -37212,17 +37162,6 @@
           "elevation_gain": 12.0,
           "moving_time": 2664.0
         }
-      },
-      "WeightTraining": {
-        "2021-07-27": {
-          "activity_ids": [
-            "5696044155"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1358.0
-        }
       }
     },
     "2022": {
@@ -37298,17 +37237,6 @@
           "distance": 5655.8,
           "elevation_gain": 59.0,
           "moving_time": 2248.0
-        }
-      },
-      "RockClimbing": {
-        "2022-03-05": {
-          "activity_ids": [
-            "6778603905"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 4346.0
         }
       },
       "Run": {
@@ -49497,7 +49425,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T14:44:06.746939+00:00",
+  "generated_at": "2026-04-27T15:20:24.620499+00:00",
   "other_bucket": "OtherSports",
   "repo": "markmcalistermd/git-sweaty",
   "source": "strava",
@@ -49506,21 +49434,9 @@
       "accent": "#d6ff6b",
       "label": "Hike"
     },
-    "Kayaking": {
-      "accent": "#00f5d4",
-      "label": "Kayaking"
-    },
-    "Kitesurf": {
-      "accent": "#f15bb5",
-      "label": "Kitesurf"
-    },
     "Ride": {
       "accent": "#05ffa1",
       "label": "Ride"
-    },
-    "RockClimbing": {
-      "accent": "#fb5607",
-      "label": "Rock Climbing"
     },
     "Run": {
       "accent": "#01cdfe",
@@ -49534,10 +49450,6 @@
       "accent": "#d6ff6b",
       "label": "Walk"
     },
-    "WeightTraining": {
-      "accent": "#ff71ce",
-      "label": "Weight Training"
-    },
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
@@ -49545,14 +49457,10 @@
   },
   "types": [
     "Hike",
-    "Kayaking",
-    "Kitesurf",
     "Ride",
-    "RockClimbing",
     "Run",
     "TrailRun",
     "Walk",
-    "WeightTraining",
     "Workout"
   ],
   "units": {

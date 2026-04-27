@@ -3835,19 +3835,6 @@
     "year": 2018
   },
   {
-    "date": "2018-01-15",
-    "distance": 11825.1,
-    "elevation_gain": 44.0,
-    "id": "1358307753",
-    "moving_time": 9432.0,
-    "name": "Al Nang \u2014> Phra Nang \u2014> Tang Ming and Back",
-    "raw_activity_type": "Kayaking",
-    "raw_type": "Kayaking",
-    "start_date_local": "2018-01-15T12:43:26Z",
-    "type": "Kayaking",
-    "year": 2018
-  },
-  {
     "date": "2018-01-16",
     "distance": 9995.5,
     "elevation_gain": 593.6,
@@ -5145,19 +5132,6 @@
     "raw_type": "Run",
     "start_date_local": "2018-05-31T17:20:04Z",
     "type": "Run",
-    "year": 2018
-  },
-  {
-    "date": "2018-06-02",
-    "distance": 29305.6,
-    "elevation_gain": 0.0,
-    "id": "1612183276",
-    "moving_time": 11035.0,
-    "name": "Jammy Dodger, DYC Yacht Race",
-    "raw_activity_type": "Kitesurf",
-    "raw_type": "Kitesurf",
-    "start_date_local": "2018-06-02T14:31:10Z",
-    "type": "Kitesurf",
     "year": 2018
   },
   {
@@ -20332,19 +20306,6 @@
     "year": 2021
   },
   {
-    "date": "2021-07-27",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "5696044155",
-    "moving_time": 1358.0,
-    "name": "Strength + Core",
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
-    "start_date_local": "2021-07-27T12:03:19Z",
-    "type": "WeightTraining",
-    "year": 2021
-  },
-  {
     "date": "2021-07-29",
     "distance": 10055.5,
     "elevation_gain": 26.0,
@@ -24073,19 +24034,6 @@
     "raw_type": "Run",
     "start_date_local": "2022-03-05T10:21:52Z",
     "type": "Run",
-    "year": 2022
-  },
-  {
-    "date": "2022-03-05",
-    "distance": 0.0,
-    "elevation_gain": 0.0,
-    "id": "6778603905",
-    "moving_time": 4346.0,
-    "name": "Afternoon Activity",
-    "raw_activity_type": "RockClimbing",
-    "raw_type": "RockClimbing",
-    "start_date_local": "2022-03-05T14:33:10Z",
-    "type": "RockClimbing",
     "year": 2022
   },
   {
